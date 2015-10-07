@@ -17,7 +17,7 @@ latest version from the *GitHub* repository, using *e.g.*: ::
 
    wget https://github.com/mangal-wg/pymangal/archive/master.zip
    unzip master.zip
-   cp pymangal-master/pymangal .
+   cp -r pymangal-master/pymangal .
    rm -r pymangal-master
 
 Then from within the ``pymangal`` folder, ::
